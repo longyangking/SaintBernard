@@ -9,7 +9,7 @@ public class ChessConfig {
 	public static final int Knight = 4;
 	public static final int Pawn = 5;
 	
-	//Resouce Info
+	//Resource Info
 	
 	public static void ResourceInit(){
 		
